@@ -10,9 +10,7 @@
 - **Databases**: PostgreSQL, SQLite
 
 ### 📌 Featured Projects
-- 🎯 **Goal Tracking App** – Android app for setting and tracking goals with streaks and schedules  
-- 🏥 **Hospital Database** – SQL-92 compliant schema for managing patients, doctors, and appointments  
-- 🎵 **Media Player** – Local JavaFX-based media player with playlists and SQLite integration  
+
 
 📫 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/horiasavin) | [GitHub](https://github.com/HoriaSav)
