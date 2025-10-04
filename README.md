@@ -5,7 +5,7 @@
 💻 Passionate about software development, databases, and Android applications  
 
 ### 🔧 Technologies & Tools
-- **Languages**: Java, Python, C#, SQL, C++
+- **Languages**: Java, SQL, Kotlin, C++; 
 - **Frameworks & Tools**: Android Studio, JavaFX, Room ORM, SQLite, JUnit, Git, IntelliJ IDEA, MATLAB
 - **Databases**: PostgreSQL, SQLite
 
