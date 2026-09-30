@@ -1,16 +1,7 @@
-# Hi there 👋 I'm Horia
+# Horia Savin Matei
 
-🎓 Informatics student at Transilvania University of Brașov  
-🌍 International study experience at Hochschule Heilbronn, Germany (Erasmus & Baden-Württemberg Stipendium)  
-💻 Passionate about software development, databases, and Android applications  
+Junior Software Developer based in Brașov, Romania.
 
-### 🔧 Technologies & Tools
-- **Languages**: Java, SQL, Kotlin, C++; 
-- **Frameworks & Tools**: Android Studio, JavaFX, Room ORM, SQLite, JUnit, Git, IntelliJ IDEA, MATLAB
-- **Databases**: PostgreSQL, SQLite
+Currently pursuing a Master's degree in Mobile Applications and Internet Technologies in E-Business at Transilvania University of Brașov.
 
-### 📌 Featured Projects
-
-
-📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/horiasavin) | [GitHub](https://github.com/HoriaSav)
+My main interests are Java, backend development, databases, and application development.
